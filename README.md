@@ -11,7 +11,7 @@ Projects and features powered by DOM Distiller:
 -   Reading list on Chrome iOS
 
 DOM Distiller is loosely based on
-["Boilerpipe" by Christian Kohlschütter, Peter Fankhauser and Wolfgang Nejdl](http://www.l3s.de/~kohlschuetter/boilerplate/).
+["Boilerpipe" by Christian Kohlschütter, Peter Fankhauser and Wolfgang Nejdl](https://github.com/kohlschutter/boilerpipe).
 
 ## Report a bug
 
